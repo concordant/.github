@@ -24,6 +24,7 @@ More information:
 - [Concordant Website](https://concordant.io)
 - [Vision Paper](https://concordant.io/uploads/visionpaper-concordant_2020.pdf)
 - [Dev Tutorial](https://concordant.io/tutorial)
+- [Dev Status](./STATUS.md)
 
 ## Components
 
