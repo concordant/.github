@@ -1,7 +1,5 @@
 # Status of the Concordant platform, and development directions
 
-16 April 2021
-
 ## The Concordant vision
 
 Concordant is a platform to enable applications to share mutable data at the edge or in the cloud.  
